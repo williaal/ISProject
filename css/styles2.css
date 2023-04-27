@@ -1,0 +1,47 @@
+#top{
+    font-weight:bold;
+    color:rgb(46, 9, 80)
+
+
+}
+
+.category{
+    font-weight: bold;
+    color:rgb(66, 8, 66);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style:initial
+}
+
+body{
+    background-color: rgb(241, 230, 230);
+    color:black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 10px solid whitesmoke;
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+
+}
+
+ol{
+    list-style-position: inside;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+.common{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.header{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.footer{
+    height: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:antiquewhite
+}
